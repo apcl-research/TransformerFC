@@ -7,7 +7,7 @@ from models.codegnngru_sep import CodeGNNGRUModelSep as codegnngru_sep
 from models.code2seq import Code2SeqModel as code2seq
 from models.transformer_base import TransformerBase as xformer_base
 from models.setransformer import SeTransformer as sexformer
-from models.transformer_FCimport TransformerBaseFC3 as xformer_base_fc3
+from models.transformer_FC import TransformerBaseFC3 as xformer_base_fc3
 from models.transformer_alt import TransformerBaseFC7 as xformer_base_fc7
 from models.transformer_base_fccomb import TransformerBaseFCCombined as xformer_base_fccomb
 
