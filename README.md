@@ -5,12 +5,12 @@
  The complete data and models as well as prediction files can be found at:
 
 - funcom_python:https://drive.google.com/file/d/1WnO3Ibp-7D4O1iqe-16hAozggdgvMcMO/view?usp=sharing
-- javastmt_fc: 
+- funcom-java-long: 
 
 
 
 ## Step 1 - Training
-To ensure no recursive errors or edits, clone this git repository and  place the javastmt_fc and python_fc folders after decompresing the data
+To ensure no recursive errors or edits, clone this git repository and  place the dataset folders after decompresing the data
 
 Create directory outdir, with 4 subdirectories  **outdir/{models, histories, viz, predictions}**
 **Use Requirements.txt to get your python 3.x virtual environment in sync with our setup.** Venv is preferred. Common issues that might arise from updating an existing venv and solutions :
