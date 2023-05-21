@@ -2,10 +2,9 @@
 # Replication package for "Revisiting File Context for Source Code Summarization" under review at TSE.
 ## Step 0 - Dataset building
 
- The complete data and models as well as prediction files can be found at:
+The dataset we created for this paper can be found at:
 
 - funcom_python:https://drive.google.com/file/d/1WnO3Ibp-7D4O1iqe-16hAozggdgvMcMO/view?usp=sharing
-- funcom-java-long: 
 
 
 
