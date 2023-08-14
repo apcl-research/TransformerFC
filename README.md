@@ -1,5 +1,5 @@
 
-# Replication package for "Revisiting File Context for Source Code Summarization" under review at TSE.
+# Replication package for "Revisiting File Context for Source Code Summarization" under review
 ## Step 0 - Dataset building
 
 The dataset we created for this paper can be found at:
